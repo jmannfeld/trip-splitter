@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  margin: 0;
+  height: 100vh;
+  background-image:
+    url("images/graph-paper.svg"),
+    linear-gradient(#7BD1C7 10%, #fff 160%);
+}
+.App-header {
+  color: white;
+  /* background-color: #7BD1C7; */
+  /* box-shadow: rgba(255, 255, 255, 0) 6px 0 8px; */
+}
+
+.App-title {
+  color: #E9FFFE;
+  font-size: 96px;
+  line-height: 120px;
+  text-align: left;
+  font-family: 'Gugi';
+  padding: 25px 0 0 35px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  text-shadow: -1px 1px 2px rgba(0, 0, 0, 64);
+}
